@@ -1,6 +1,6 @@
 # atl-interface-test
 
-Build with `npm run build`
+Build with `npm install && npm run build`
 
 Expectation is that every .ts file will generate a corresponding .d.ts file.
 
