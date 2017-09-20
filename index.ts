@@ -15,7 +15,6 @@ class MyOtherInstance implements MyOtherInstance {
 
 class main {
     foo = FOO;
-    bar = BAR;
     inst = new MyInstance();
     inst2 = new MyOtherInstance();
 }
